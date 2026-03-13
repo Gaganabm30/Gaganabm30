@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gagana B M</h1>
 <h3 align="center">Real-world project builder | DSA learner | AI enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaganabm30" alt="gaganabm30" /></a> </p>
-
 - 🚧 I’m currently building a real-world Fitness Tracker project that helps users monitor their daily health activities such as workouts, steps, and fitness progress using modern web technologies. [FitConnect](gfitconnect.netlify.app)
 
 - 🌱 I’m currently learning **AI and machine learning**
