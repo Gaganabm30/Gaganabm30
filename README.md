@@ -1,3 +1,5 @@
+![logo](https://github.com/Gaganabm30/Gaganabm30/blob/main/Untitled%20design.png)
+
 <h1 align="center">Hi 👋, I'm Gagana B M</h1>
 
 <h3 align="center">Real-world project builder | DSA learner | AI enthusiast</h3>
