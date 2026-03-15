@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaganabm30&label=Profile%20views&color=0e75b6&style=flat" alt="gaganabm30" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaganabm30" alt="gaganabm30" /></a> </p>
-
 - 🔭 I’m currently working on [FitConnect](gfitconnect.netlify.app)
 
 - 🌱 I’m currently learning **AI and machine learning**
