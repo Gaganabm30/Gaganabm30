@@ -92,13 +92,7 @@ style="border-radius:14px; border:3px solid #30363d;">
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gaganabm30&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
 
 ---
 
