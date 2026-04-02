@@ -1,11 +1,8 @@
 <!-- ===================== BANNER ===================== -->
 
 <p align="center">
-<img src="https://github.com/Gaganabm30/Gaganabm30/blob/main/banner1.png" 
-width="100%" 
-style="border-radius:14px; border:3px solid #30363d;">
+<img src="https://github.com/Gaganabm30/Gaganabm30/blob/main/banner1.png" width="100%">
 </p>
-
 
 <p align="center">
 🚀 Real-world project builder | DSA learner | AI enthusiast
@@ -30,7 +27,7 @@ style="border-radius:14px; border:3px solid #30363d;">
 
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="280"/>
+<img src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="260"/>
 
 </td>
 
@@ -52,7 +49,7 @@ style="border-radius:14px; border:3px solid #30363d;">
 </a>
 </td>
 
-<td width="40"></td>
+<td width="50"></td>
 
 <td align="center">
 <a href="https://instagram.com/gagana_bm">
@@ -60,7 +57,7 @@ style="border-radius:14px; border:3px solid #30363d;">
 </a>
 </td>
 
-<td width="40"></td>
+<td width="50"></td>
 
 <td align="center">
 <a href="https://leetcode.com/gaganabm30">
@@ -68,7 +65,7 @@ style="border-radius:14px; border:3px solid #30363d;">
 </a>
 </td>
 
-<td width="40"></td>
+<td width="50"></td>
 
 <td align="center">
 <a href="mailto:gagugagana01@gmail.com">
@@ -80,29 +77,27 @@ style="border-radius:14px; border:3px solid #30363d;">
 </table>
 
 </p>
+
 ---
 
 # 🧰 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,java,mysql,git,firebase,django,bootstrap,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,java,mysql,git,firebase,django,bootstrap,figma"/>
 
 </p>
 
 ---
 
-
-
----
-
-# 📊 GitHub Stats
+# 📊 GitHub Overview
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gaganabm30&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaganabm30&layout=compact&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Code-Daily-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-Grinding-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Projects-Building-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Learning-AI%20%7C%20MERN-purple?style=for-the-badge"/>
 
 </p>
 
@@ -112,7 +107,7 @@ style="border-radius:14px; border:3px solid #30363d;">
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gaganabm30&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Gaganabm30&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -122,7 +117,7 @@ style="border-radius:14px; border:3px solid #30363d;">
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gaganabm30&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaganabm30&theme=tokyo-night"/>
 
 </p>
 
@@ -152,7 +147,7 @@ style="border-radius:14px; border:3px solid #30363d;">
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=gaganabm30&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Gaganabm30&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
 </p>
 
