@@ -103,11 +103,25 @@
 
 ---
 
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gaganabm30&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gaganabm30&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</p>
+
+---
+
+
 # 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Gaganabm30&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaganabm30&theme=tokyonight&hide_border=true"/>
 
 </p>
 
