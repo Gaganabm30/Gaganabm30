@@ -1,127 +1,110 @@
 <!-- ===================== BANNER ===================== -->
 
 <p align="center">
-<img src="https://github.com/Gaganabm30/Gaganabm30/blob/main/banner1.png" width="100%">
+  <img src="banner1.png" width="100%" alt="Banner">
+</p>
+
+<h1 align="center">Hi 👋, I'm Gagana B M</h1>
+
+<h3 align="center">
+Computer Science Student • MERN Stack Developer • DSA Enthusiast • AI Learner
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;DSA+Learner;AI+%26+Machine+Learning+Explorer;Building+Projects+Every+Day;Future+Software+Engineer" />
 </p>
 
 <p align="center">
-🚀 Real-world project builder | DSA learner | AI enthusiast
+
+<a href="https://github.com/Gaganabm30">
+<img src="https://img.shields.io/github/followers/Gaganabm30?label=Followers&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Gaganabm30">
+<img src="https://img.shields.io/github/stars/Gaganabm30?affiliations=OWNER&style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Gaganabm30&style=for-the-badge&color=blue"/>
+
 </p>
 
 ---
 
-# 👩‍💻 About Me
+# 👨‍💻 About Me
 
-<table>
-<tr>
+<img align="right" width="320" src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif"/>
 
-<td width="60%" valign="top">
+- 🎓 Computer Science Engineering Student
+- 💻 MERN Stack Developer
+- 🌱 Currently learning AI, Machine Learning & RAG
+- 🚀 Building Full Stack Projects
+- 🧠 Solving DSA daily on LeetCode
 
-- 🔭 Currently building **[FitConnect](https://gfitconnect.netlify.app)**  
-- 🌱 Learning **AI, Machine Learning & RAG systems**  
-- 👨‍💻 Portfolio → https://g-devworkss.netlify.app  
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, NodeJS, MongoDB**  
-- 📫 Reach me → **gagugagana01@gmail.com**
+### 📫 Reach Me
 
-</td>
+📧 **gagugagana01@gmail.com**
 
-<td width="40%" align="center">
+🌐 Portfolio
 
-<img src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="260"/>
-
-</td>
-
-</tr>
-</table>
+https://g-devworkss.netlify.app
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
+# 🌐 Connect With Me
 
 <table align="center">
 <tr>
-
 <td align="center">
 <a href="https://linkedin.com/in/gaganabm">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </td>
 
-<td width="50"></td>
-
-<td align="center">
-<a href="https://instagram.com/gagana_bm">
-<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
-</a>
-</td>
-
-<td width="50"></td>
+<td width="15"></td>
 
 <td align="center">
 <a href="https://leetcode.com/gaganabm30">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="50"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 </td>
 
-<td width="50"></td>
+<td width="15"></td>
+
+<td align="center">
+<a href="https://instagram.com/gagana_bm">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</td>
+
+<td width="15"></td>
 
 <td align="center">
 <a href="mailto:gagugagana01@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </td>
 
 </tr>
 </table>
-
-</p>
-
 ---
 
-# 🧰 Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,java,mysql,git,firebase,django,bootstrap,figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,mysql,git,github,firebase,django,bootstrap,figma,vscode"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Overview
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Code-Daily-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DSA-Grinding-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Projects-Building-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Learning-AI%20%7C%20MERN-purple?style=for-the-badge"/>
-
-</p>
-
----
-
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gaganabm30&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gaganabm30&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</p>
-
----
 
 
 # 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaganabm30&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Gaganabm30&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -137,11 +120,12 @@
 
 ---
 
+
 # 🧠 LeetCode Stats
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/gaganabm30?theme=dark&font=Karma"/>
+<img src="https://leetcard.jacoblin.cool/gaganabm30?theme=dark&font=Karma&ext=heatmap"/>
 
 </p>
 
@@ -149,9 +133,61 @@
 
 # 🐍 Contribution Snake
 
+> **Enable the GitHub Action below first.**
+
 <p align="center">
 
-<img src="https://github.com/Gaganabm30/Gaganabm30/blob/output/github-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Gaganabm30/Gaganabm30/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 📅 Contribution Calendar
+
+<p align="center">
+
+<img src="https://ghchart.rshah.org/58A6FF/Gaganabm30"/>
+
+</p>
+
+---
+
+# 📈 Coding Activity
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gaganabm30&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ⚡ GitHub Summary Cards
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gaganabm30&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gaganabm30&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gaganabm30&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gaganabm30&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+
+# 💡 Quote of the Day
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </p>
 
@@ -161,16 +197,18 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Gaganabm30&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Gaganabm30&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
 
 ---
 
-# ✨ Developer Motto
+# 💙 Developer Motto
 
 <p align="center">
 
-💡 **Learn in Public • Build in Public • Improve Every Day**
+### Learn • Build • Share • Repeat 🚀
+
+*"Consistency beats intensity."*
 
 </p>
