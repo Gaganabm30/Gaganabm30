@@ -1,7 +1,7 @@
 <!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <img src="banner1.png" width="100%" alt="Banner">
+<img src="https://raw.githubusercontent.com/Gaganabm30/Gaganabm30/main/banner1.png" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Gagana B M</h1>
