@@ -14,19 +14,7 @@ Computer Science Student • MERN Stack Developer • DSA Enthusiast • AI Lear
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;DSA+Learner;AI+%26+Machine+Learning+Explorer;Building+Projects+Every+Day;Future+Software+Engineer" />
 </p>
 
-<p align="center">
 
-<a href="https://github.com/Gaganabm30">
-<img src="https://img.shields.io/github/followers/Gaganabm30?label=Followers&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Gaganabm30">
-<img src="https://img.shields.io/github/stars/Gaganabm30?affiliations=OWNER&style=for-the-badge"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Gaganabm30&style=for-the-badge&color=blue"/>
-
-</p>
 
 ---
 
