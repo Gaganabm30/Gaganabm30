@@ -1,0 +1,39 @@
+name: Update Profile SVGs
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs every day
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate placeholder streak
+        run: |
+          mkdir -p profile
+          cat > profile/streak.svg << 'EOF'
+          <svg xmlns="http://www.w3.org/2000/svg" width="900" height="220">
+            <rect width="100%" height="100%" fill="#0d1117"/>
+            <text x="50%" y="50%" fill="#58a6ff"
+                  font-size="34"
+                  text-anchor="middle"
+                  font-family="Arial">
+              GitHub Streak will be generated here
+            </text>
+          </svg>
+          EOF
+
+      - name: Commit SVG
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add profile/streak.svg
+          git commit -m "Update streak" || echo "Nothing to commit"
+          git push
