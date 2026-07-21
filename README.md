@@ -92,9 +92,7 @@ https://g-devworkss.netlify.app
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Gaganabm30&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Gaganabm30&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
